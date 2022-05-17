@@ -668,7 +668,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "lakshay.jpeg",
     description:
-      "I am available on almost every social media. You can message me, and expect a reply within 24 hours. Happy to help with any, under my knowledge umbrella.",
+      "I am available on almost every social media. You can message me, and expect a reply within 24 hours. Happy to help with anything, under my knowledge umbrella.",
   },
   // blogSection: {
   //   title: "",
