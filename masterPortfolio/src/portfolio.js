@@ -134,7 +134,7 @@ const skills = {
       skills: [
         "⚡ Teaching Experience of more than 8 years",
         "⚡ Trained Faculty's K12 children, Mobile and App Developer at IIM Bangalore",
-        "⚡ Scaling my Teaching Institute - EMINENCE CLASSES"
+        "⚡ Scaling my Teaching Institute - EMINENCE CLASSES : www.eminenceclass.in"
       ],
       softwareSkills: [
         // {
@@ -214,10 +214,10 @@ const skills = {
       title: "Trading/Investing",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Somehow I love Penny Stocks",
+        "⚡ Multibaggers, IPOs, Day-Trading are some fav terms",
+        "⚡ Love sharing knowledge of Stocks, Traiding and everything around it",
+        "⚡ Shiba is my Crypto Luck, 2498% gains ;)",
       ],
       softwareSkills: [
         // {
