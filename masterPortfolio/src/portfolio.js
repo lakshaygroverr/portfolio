@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Lakshay Grover",
   logo_name: "LakshayGrover",
-  nickname: "developer_teacher_trader",
+  nickname: "(developer_teacher_trader)",
   subTitle:
     "A passionate developer/ teacher who's always curious to learn and teach new things that thrives to enlighten me and everyone around.",
   resumeLink:
@@ -668,7 +668,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "lakshay.jpeg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with whatever, under my knowledge umbrella.",
+      "I am available on almost every social media. You can message me, and expect a reply within 24 hours. Happy to help with any, under my knowledge umbrella.",
   },
   // blogSection: {
   //   title: "",
