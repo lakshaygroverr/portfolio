@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "LakshayGrover",
   nickname: "(developer_teacher_trader)",
   subTitle:
-    "A passionate developer/ teacher who's always curious to learn and teach new things that thrives to enlighten me and everyone around.",
+  "A results-driven Developer, Educator, and Trader with a passion for innovation, automation, and knowledge sharing. Skilled in building efficient solutions, mentoring teams, and driving technical excellence to create a lasting impact.",
   resumeLink:
   "https://driive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
 portfolio_repository: "https://github.com/lakshaygroverr",
@@ -87,13 +87,14 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "EDI, Mobile and Web Developer",
+      title: "EDI, Automation and Web Developer",
       fileName: "FullStackImg",
       skills: [
-        "⚡ IT Specialist responsible for B2B Transaction in EDI Messages",
-        "⚡ Developing Android and Web Based applications",
-        "⚡ Experience of working with React, Kotlin, Sterling Integrator and Lightwell Projects",
-        "⚡ IoT Enthusiast",
+        "⚡ IT Specialist responsible for B2B Transactions in EDI Messages",
+        "⚡ Developing Android and Web-Based Applications",
+        "⚡ Experienced in React, Kotlin, Sterling Integrator, Lightwell Projects, and EDI Solutions",
+        "⚡ Automation Specialist working with Jenkins, Groovy, and CI/CD pipelines",
+        "⚡ Web Development expertise using Java and Angular",
       ],
       softwareSkills: [
         // {
@@ -132,93 +133,91 @@ const skills = {
       title: "Teacher/ Tutor/ Educator",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Teaching Experience of more than 8 years",
-        "⚡ Trained Faculty's K12 children, Mobile and App Developer at IIM Bangalore",
-        "⚡ Scaling my Teaching Institute - EMINENCE CLASSES : www.eminenceclass.in"
+        "⚡ 10+ years of experience in Software Development, EDI, and B2B Integration",
+        "⚡ Expertise in EDI Transactions, Sterling Integrator, and Lightwell Projects",
+        "⚡ Automation & DevOps Specialist (Jenkins, Groovy, CI/CD)",
+        "⚡ Full-Stack Web Development using Java & Angular",
+        "⚡ Developed Android and Web Applications using React",
+        "⚡ Trained K12 students, Mobile & App Developers at IIM Bangalore",
+        "⚡ Scaling my Teaching Institute - EMINENCE CLASSES: www.eminenceclass.in",
       ],
+      
       softwareSkills: [
-        // {
-        //   skillName: "HTML5",
-        //   fontAwesomeClassname: "simple-icons:html5",
-        //   style: {
-        //     color: "#E34F26",
-        //   },
-        // },
-        // {
-        //   skillName: "CSS3",
-        //   fontAwesomeClassname: "fa-css3",
-        //   style: {
-        //     color: "#1572B6",
-        //   },
-        // },
-        // {
-        //   skillName: "Sass",
-        //   fontAwesomeClassname: "simple-icons:sass",
-        //   style: {
-        //     color: "#CC6699",
-        //   },
-        // },
-        // {
-        //   skillName: "JavaScript",
-        //   fontAwesomeClassname: "simple-icons:javascript",
-        //   style: {
-        //     backgroundColor: "#000000",
-        //     color: "#F7DF1E",
-        //   },
-        // },
-        // {
-        //   skillName: "ReactJS",
-        //   fontAwesomeClassname: "simple-icons:react",
-        //   style: {
-        //     color: "#61DAFB",
-        //   },
-        // },
-        // {
-        //   skillName: "NodeJS",
-        //   fontAwesomeClassname: "simple-icons:node-dot-js",
-        //   style: {
-        //     color: "#339933",
-        //   },
-        // },
-        // {
-        //   skillName: "NPM",
-        //   fontAwesomeClassname: "simple-icons:npm",
-        //   style: {
-        //     color: "#CB3837",
-        //   },
-        // },
-        // {
-        //   skillName: "Yarn",
-        //   fontAwesomeClassname: "simple-icons:yarn",
-        //   style: {
-        //     color: "#2C8EBB",
-        //   },
-        // },
-        // {
-        //   skillName: "Gatsby",
-        //   fontAwesomeClassname: "simple-icons:gatsby",
-        //   style: {
-        //     color: "#663399",
-        //   },
-        // },
-        // {
-        //   skillName: "Flutter",
-        //   fontAwesomeClassname: "simple-icons:flutter",
-        //   style: {
-        //     color: "#02569B",
-        //   },
-        // },
-      ],
+        {
+          skillName: "JavaScript",
+          fontAwesomeClassname: "simple-icons:javascript",
+          style: {
+            backgroundColor: "#000000",
+            color: "#F7DF1E",
+          },
+        },
+        {
+          skillName: "ReactJS",
+          fontAwesomeClassname: "simple-icons:react",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "NodeJS",
+          fontAwesomeClassname: "simple-icons:nodedotjs",
+          style: {
+            color: "#339933",
+          },
+        },
+        {
+          skillName: "Java",
+          fontAwesomeClassname: "simple-icons:spring",
+          style: {
+            color: "#007396",
+          },
+        },
+        {
+          skillName: "Angular",
+          fontAwesomeClassname: "simple-icons:angular",
+          style: {
+            color: "#DD0031",
+          },
+        },
+        {
+          skillName: "Sterling Integrator",
+          fontAwesomeClassname: "simple-icons:ibm",
+          style: {
+            color: "#1F70C1",
+          },
+        },
+        {
+          skillName: "EDI & B2B Integration",
+          fontAwesomeClassname: "simple-icons:json",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Jenkins",
+          fontAwesomeClassname: "simple-icons:jenkins",
+          style: {
+            color: "#D24939",
+          },
+        },
+        {
+          skillName: "Groovy",
+          fontAwesomeClassname: "simple-icons:apachegroovy",
+          style: {
+            color: "#4298B8",
+          },
+        },
+      ]      
     },
     {
       title: "Trading/Investing",
       fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Somehow I love Penny Stocks",
-        "⚡ Multibaggers, IPOs, Day-Trading are some fav terms",
-        "⚡ Love sharing knowledge of Stocks, Traiding and everything around it",
-        "⚡ Shiba is my Crypto Luck, 2498% gains ;)",
-      ],
+      "skills": [
+    "⚡ Enthusiastic about Penny Stocks and discovering hidden opportunities",
+    "⚡ Passionate about Multibaggers, IPOs, and the thrill of Day Trading",
+    "⚡ Love sharing insights on Stocks, Trading strategies, and Market dynamics",
+    "⚡ Crypto enthusiast with a knack for spotting high-growth opportunities 🚀"
+],
       softwareSkills: [
         // {
         //   skillName: "GCP",
@@ -281,11 +280,13 @@ const skills = {
     {
       title: "Football/ Reading",
       fileName: "DesignImg",
-      skills: [
-        "⚡ I love to play football and I support Chelsea #CFC",
-        "⚡ Books are my peace, I try to finish 1 book every week. Remember TRY :p",
-        "⚡ Rich Dad Poor Dad, Rudest Book Ever, Psychology of Money are some of my fav.",
-      ],
+      "skills": [
+    "⚡ Passionate about football and a dedicated Chelsea supporter #CFC",
+    "⚡ Avid reader with a deep interest in personal finance, psychology, and self-improvement",
+    "⚡ Favorite books include Rich Dad Poor Dad, The Rudest Book Ever, and The Psychology of Money",
+    "⚡ Always exploring new perspectives through books on business, mindset, and success",
+    "⚡ Enjoy discussing book insights and applying them to real-world scenarios"
+],
       softwareSkills: [
         // {
         //   skillName: "Adobe XD",
@@ -375,10 +376,13 @@ const degrees = {
       alt_name: "Christ University",
       duration: "2017 - 2020",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Cloud Computing, IOT, and Full Stack Development.",
-        "⚡ I was Internation Runner up in IOT Contest. I have received award from respected director for most innovative project and a sum of $2000.",
-      ],
+       "⚡ Strong foundation in software engineering, including Data Structures, Algorithms, DBMS, Operating Systems, Computer Architecture, and AI.",
+    "⚡ Completed specialized courses in Cloud Computing, IoT, and Full Stack Development.",
+    "⚡ International Runner-up in an IoT contest and recipient of an innovation award from the director, along with a $2,000 prize.",
+    "⚡ Experienced in developing scalable applications with a focus on performance optimization and system design.",
+    "⚡ Skilled in problem-solving, debugging, and optimizing code for efficiency and reliability.",
+    "⚡ Passionate about learning emerging technologies and applying them to real-world projects."
+],
       website_link: "http://christuniversity.in",
     },
   ],
@@ -514,21 +518,19 @@ const experience = {
           company_url: "https://www.eminenceclass.in/",
           logo_path: "eminence.png",
           duration: "April 2020 - PRESENT",
-          location: "Delhi, Karol Bagh",
-          description:
-            "I am a educator and founder of my institute in Karol Bagh where I teach K12 students and Graduates subject like Computer Science, Maths and Science. Visit my website ;)",
-          color: "#0879bf",
+          location: "Delhi",
+         "description": "Educator and founder of an institute in Karol Bagh, teaching K12 and graduate students in Computer Science, Mathematics, and Science. Dedicated to creating an engaging and effective learning environment."
+,color: "#0879bf",
         },
         {
-          title: "EDI Developer",
+          title: "Senior Developer",
           company: "DSV: Global Transport and Logistic",
           company_url: "https://www.dsv.com",
           logo_path: "dsv.png",
           duration: "Apr 2021 - PRESENT",
           location: "Delhi",
-          description:
-            "I am working as an IT Specialist majorly as an EDI Developer. I onboard new customers for DSV and setup end-to-end B2B EDI Messages. Tools used by me are Sterling Integrator, Map Editor and Lightwell Framework and DSV's own Framework",
-          color: "#9b1578",
+         "description": "Senior Developer with extensive experience in onboarding new customers for DSV and setting up end-to-end B2B EDI messages. Proficient in Sterling Integrator, Map Editor, Lightwell Framework, and DSV’s proprietary framework. Additionally, I have implemented automation solutions using DevOps tools to optimize EDI processes, enhance efficiency, and reduce manual effort."  
+,color: "#9b1578",
         },
         {
           title: "Proram Manager",
@@ -537,9 +539,8 @@ const experience = {
           logo_path: "adigroup.png",
           duration: "Nov 2017 - Dec 2017",
           location: "Ahmedabad, Gujarat",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-          color: "#fc1f20",
+          "description": "Program Manager at Adigroup, leading the development of an Android app for K12 students. Managed the entire product lifecycle, from ideation to launch, ensuring a seamless go-to-market strategy. Oversaw app development, UI/UX design, and backend integration, migrating services to Firebase for improved performance and scalability. Worked on optimizing data communication using technologies like Retrofit and EventBus. Experienced in product management, user engagement strategies, and delivering impactful ed-tech solutions."  
+,color: "#fc1f20",
         },
       ],
     },
@@ -555,8 +556,7 @@ const experience = {
           duration: "Nov 2017 - Apr 2019",
           location: "IIM, Bangalore",
           description:
-            "Educator and Trainer at CampK12 where I taught K12 student about app development, ML, AI and web development using CampK12 Tools. I also organised Hackathon under guidance of CampK12 Founder - Mr. Anshul Bhagi",
-          color: "#0071C5",
+"Educator and Trainer at CampK12, teaching K12 students app development, machine learning, AI, and web development using CampK12’s platform. Organized a hackathon under the guidance of founder Anshul Bhagi, fostering innovation and hands-on learning.",          color: "#0071C5",
         },
         {
           title: "IOT & Android Developer",
@@ -566,8 +566,7 @@ const experience = {
           duration: "May 2019 - Sept 2019",
           location: "Gurgaon, Haryana",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-          color: "#ee3c26",
+"Android Developer at Dobby Ads, developing applications for Android-based advertising screens powered by Android sticks. Built and optimized apps to deliver targeted ads seamlessly across multiple displays. Worked with technologies like Android SDK, Firebase, WebSockets, and MQTT for real-time ad delivery and remote content management, ensuring smooth performance and scalability.",          color: "#ee3c26",
         },
         {
           title: "Developer",
@@ -578,8 +577,7 @@ const experience = {
           duration: "Nov 2019 - Apr 2020",
           location: "Christ University, Bangalore",
           description:
-            "This is a Christ University's Consulting Group where I was part of Tech Team, responsible for app and website development",
-          color: "#0071C5",
+"Part of the Tech Team at Christ University's Consulting Group, responsible for developing and maintaining applications and websites to support various consulting initiatives.",          color: "#0071C5",
         },
       ],
     },
@@ -594,8 +592,7 @@ const experience = {
           duration: "June 2019 - April 2020",
           location: "Hyderabad, Telangana",
           description:
-            "I was responsible for Developing an Android Application that can control IOT Devices in a Mesh Network formed by GreenIlai's self designed IoT Devices",
-          color: "#4285F4",
+"Developed an Android application for GreenIlai to control IoT devices within a mesh network, utilizing GreenIlai’s custom-designed IoT hardware for seamless communication and automation.",          color: "#4285F4",
         },
         // {
         //   title: "Microsoft Student Partner",
@@ -668,8 +665,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "lakshay.jpeg",
     description:
-      "I am available on almost every social media. You can message me, and expect a reply within 24 hours. Happy to help with anything, under my knowledge umbrella.",
-  },
+"I am active on almost all major social media platforms and always open to meaningful conversations. Feel free to reach out with any queries related to my areas of expertise, and I’ll do my best to respond within 24 hours. Whether it's technology, education, startups, or anything within my knowledge domain, I’m happy to help and share insights.",  },
   // blogSection: {
   //   title: "",
   //   //subtitle:
